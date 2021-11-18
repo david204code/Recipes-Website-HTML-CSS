@@ -280,3 +280,7 @@ Navbar
   justify-content: space-between;
   align-items: center;
 }
+
+.nav-header img {
+  width: 200px;
+}
