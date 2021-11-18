@@ -273,3 +273,10 @@ Navbar
   max-width: var(--max-width);
   /* background: red; */
 }
+
+.nav-header {
+  height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
